@@ -1,9 +1,8 @@
 import 'babel-polyfill';
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import Root from './containers/Root';
+import Root from './containers/Root';
 
 class Hello extends React.Component {
     render() {
@@ -15,6 +14,6 @@ class Hello extends React.Component {
     }
 }
 
-ReactDOM.render(<Hello />, document.getElementById('root'));
+ReactDOM.render(<Root />, document.getElementById('root'));
 
 

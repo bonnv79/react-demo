@@ -1,6 +1,5 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 export default class Posts extends Component {
   render() {
     return (
@@ -12,7 +11,6 @@ export default class Posts extends Component {
     )
   }
 }
-
 Posts.propTypes = {
   posts: PropTypes.array.isRequired
 }

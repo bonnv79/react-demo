@@ -8,6 +8,7 @@ import {
 } from '../actions';
 import Picker from '../components/Picker';
 import Posts from '../components/Posts';
+
 class AsyncApp extends Component {
   constructor(props) {
     super(props);
@@ -31,6 +32,7 @@ class AsyncApp extends Component {
     this.props.dispatch(selectSubreddit(nextSubreddit));
     this.props.dispatch(fetchPostsIfNeeded(nextSubreddit));
   }
+
   handleRefreshClick(e) {
     e.preventDefault();
 
@@ -38,6 +40,7 @@ class AsyncApp extends Component {
     dispatch(invalidateSubreddit(selectedSubreddit));
     dispatch(fetchPostsIfNeeded(selectedSubreddit));
   }
+
   render() {
     const { selectedSubreddit, posts, isFetching, lastUpdated } = this.props;
     return (
@@ -68,6 +71,7 @@ class AsyncApp extends Component {
     )
   }
 }
+
 AsyncApp.propTypes = {
   selectedSubreddit: PropTypes.string.isRequired,
   posts: PropTypes.array.isRequired,
@@ -75,6 +79,7 @@ AsyncApp.propTypes = {
   lastUpdated: PropTypes.number,
   dispatch: PropTypes.func.isRequired
 };
+
 function mapStateToProps(state) {
   const { selectedSubreddit, postsBySubreddit } = state;
   const { isFetching, lastUpdated, items: posts } = postsBySubreddit[
@@ -90,4 +95,5 @@ function mapStateToProps(state) {
     lastUpdated
   }
 }
+
 export default connect(mapStateToProps)(AsyncApp)

@@ -1,4 +1,4 @@
-import { REQ_DATA, RES_DATA, FIND_DATA } from './actions';
+import { REQ_DATA, RES_DATA, FIND_DATA } from '../actions/actions';
 
 const initState = {
     isLoading: false,

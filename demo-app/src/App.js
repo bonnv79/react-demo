@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { loadDataHandle, findData } from './actions';
+import { loadDataHandle, findData } from './actions/actions';
 
 class App extends Component {
   constructor(props) {

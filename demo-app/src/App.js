@@ -29,8 +29,7 @@ class App extends Component {
   }
 
   render() {
-    const { isLoading, isFind, data, lastUpdate, dataFind } = this.props;
-    const dataShow = isFind ? dataFind : data;
+    const { isLoading, data, lastUpdate, dataFind } = this.props;
     return (
       <div className="App">
         Find data from server: <input onChange={this.onChange} />
@@ -47,7 +46,7 @@ class App extends Component {
         { !isLoading && (
             <div>
               <ul>
-                { dataShow.map( (item, key) => (
+                { dataFind.map( (item, key) => (
                   <li key={key}>
                     {item.title}
                   </li>

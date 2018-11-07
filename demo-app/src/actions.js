@@ -3,6 +3,16 @@ export const REQ_DATA = 'REQ_DATA';
 export const RES_DATA = 'RES_DATA';
 export const FIND_DATA = 'FIND_DATA';
 
+function getData(state) {
+  const { loadDataReducer } = state;
+  const { data } = loadDataReducer;
+  return data;
+}
+
+function filterData(data, input) {
+  return data.filter(item => item.title.toLowerCase().search(input.toLowerCase()) !== -1);
+}
+
 function reqData(input) {
     return {
         type: REQ_DATA,
@@ -26,16 +36,6 @@ function loadDataServer(input) {
             .then(res => res.json())
             .then(json => dispatch(resData(input, json)));
     }
-}
-
-function getData(state) {
-    const { loadDataReducer } = state;
-    const { data } = loadDataReducer;
-    return data;
-}
-
-function filterData(data, input) {
-    return data.filter(item => item.title.toLowerCase().search(input.toLowerCase()) !== -1);
 }
 
 function findDataAction(state, input) {

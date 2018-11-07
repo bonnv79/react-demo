@@ -1,4 +1,3 @@
-import { combineReducers } from 'redux';
 import { REQ_DATA, RES_DATA, FIND_DATA } from './actions';
 
 const initState = {
@@ -34,8 +33,4 @@ function loadDataReducer(state = initState, action) {
     }
 }
 
-const rootReducer = combineReducers({
-    loadDataReducer
-});
-
-export default rootReducer;
+export default loadDataReducer;

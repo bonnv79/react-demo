@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da1c1dda-7d67-4e4b-a0c2-1573b980dd78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/components/Picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/components/Posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/containers/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter-vanilla/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/components/Counter.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/reducers/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/components/Explore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/components/Repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/components/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/DevTools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/RepoPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/Root.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/Root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/Root.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/containers/UserPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/middleware/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/reducers/paginate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/store/configureStore.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/store/configureStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-world/src/store/configureStore.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/api/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/api/shop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/Cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/Cart.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/Product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/Product.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/ProductItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/ProductItem.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/ProductsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/components/ProductsList.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/constants/ActionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/containers/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/containers/CartContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/containers/ProductsContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/reducers/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/reducers/cart.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/reducers/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/reducers/products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/reducers/products.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/actions/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/App.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/Footer.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/Header.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/Link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/Link.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/MainSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/MainSection.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/TodoItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/TodoItem.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/TodoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/TodoList.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/TodoTextInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/components/TodoTextInput.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/constants/ActionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/constants/TodoFilters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/containers/FilterLink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/containers/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/containers/MainSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/containers/VisibleTodoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/reducers/todos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/reducers/todos.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/reducers/visibilityFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todomvc/src/selectors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/components/Link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/components/Todo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/components/TodoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/containers/AddTodo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/containers/FilterLink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/containers/UndoRedo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/containers/VisibleTodoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/reducers/todos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos-with-undo/src/reducers/visibilityFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/actions/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/components/Link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/components/Todo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/components/TodoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/containers/AddTodo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/containers/FilterLink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/containers/VisibleTodoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/reducers/todos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/reducers/todos.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos/src/reducers/visibilityFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/containers/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/containers/Node.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/generateTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/reducers/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-view/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/client/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/api/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/containers/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/reducers/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/common/store/configureStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../universal/webpack.config.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-768759226">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2-counter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2-counter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da1c1dda-7d67-4e4b-a0c2-1573b980dd78" name="Default Changelist" comment="" />
+      <created>1541582101718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541582101718</updated>
+      <workItem from="1541582104362" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="612000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

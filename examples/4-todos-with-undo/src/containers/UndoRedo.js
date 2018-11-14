@@ -13,10 +13,17 @@ let UndoRedo = ({ canUndo, canRedo, onUndo, onRedo }) => (
   </p>
 )
 
-const mapStateToProps = (state) => ({
-  canUndo: state.todos.past.length > 0,
-  canRedo: state.todos.future.length > 0
-})
+// const mapStateToProps = (state) => ({
+//   canUndo: state.todos.past.length > 0,
+//   canRedo: state.todos.future.length > 0
+// })
+
+function mapStateToProps(state) {
+  return {
+    canUndo: state.todos.past.length > 0,
+    canRedo: state.todos.future.length > 0
+  }
+}
 
 const mapDispatchToProps = ({
   onUndo: UndoActionCreators.undo,
